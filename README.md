@@ -33,7 +33,7 @@ authentication, password recovery, etc.
 The Google Maps API is needed in a vast majority of web applications, and this
 skeleton contains a prepared connection.
 
-There are multiple react libraries available, but I chose (this)[https://github.com/google-map-react/google-map-react] 
+There are multiple react libraries available, but I chose [this](https://github.com/google-map-react/google-map-react) 
 since it provides very well documented guides.
 
 
