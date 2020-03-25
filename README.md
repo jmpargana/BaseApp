@@ -23,7 +23,7 @@ And create an .env file containing all the needed variables and API keys.
 
 ### Auth0
 
-It implements the (Auth0)[https://auth0.com/] library to login, with multiple
+It implements the [Auth0](https://auth0.com/) library to login, with multiple
 social media accounts and provides essential safety features like two-step 
 authentication, password recovery, etc.
 
@@ -42,7 +42,7 @@ since it provides very well documented guides.
 The Context API is an important design principle for react Apps. It provides the
 developer with an easy to maintain global state.
 
-Read more (here)[https://reactjs.org/docs/context.html].
+Read more [here](https://reactjs.org/docs/context.html).
 
 
 ### Internationalization
@@ -50,7 +50,7 @@ Read more (here)[https://reactjs.org/docs/context.html].
 It comes with a fully implemented i18n library that allows easy translations throughout the application.
 
 Read more about how to use and setup each component with either HOC, Hooks
-or Legacy components (here)[https://www.i18next.com/].
+or Legacy components [here](https://www.i18next.com/).
 
 ### Materialize
 
@@ -58,7 +58,7 @@ It renders all the components with the materialize library styling, which can
 be changed with "styled-components" or plain CSS, but is a huge help, since
 its an amazing library following the material design guidelines.
 
-You can find more examples (here)[https://materializecss.com/].
+You can find more examples [here](https://materializecss.com/).
 
 
 ### Multer
